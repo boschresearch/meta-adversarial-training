@@ -64,6 +64,12 @@ In case you use the code linked above for generating the tfrecord files with Pyt
 - Default: `python mat/train.py configs/mat.yaml` (Set `base_result_dir` and `data_dir`)
 - Custom configuration `python mat/train.py $PATH_TO_CUSTOM_CONFIG` 
 
+## Contributors
+
+- [Jan Hendrik Metzen](https://github.com/jmetzen)
+- [Nicole Finnie](https://github.com/nicolefinnie)
+- [Robin Hutmacher](https://github.com/hutec)
+
 
 ### License
 
