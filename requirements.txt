@@ -1,0 +1,4 @@
+python>=3.7  # required for dataclasses that are used in config files
+tensorflow-gpu=1.14
+tensorflow-probability
+pyyaml

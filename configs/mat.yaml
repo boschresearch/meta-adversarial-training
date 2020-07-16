@@ -1,0 +1,17 @@
+base_result_dir: BASE_RESULT_DIR
+unique_name: mat
+data_dir: DATA_DIR
+patch_lr: 0.25
+initial_lr: 0.033
+n_epochs: 75
+batch_size: 128
+label_smoothing: 0.0
+n_patches: 1000
+n_patch_trials: 5
+patch_shape: [24, 24, 3]
+patch_initialization: data
+
+optimizer: !!python/object:config.OptimizerConfig
+  min_step_size: 0.0001
+  max_step_size: 0.1
+  n_iterations: 5
