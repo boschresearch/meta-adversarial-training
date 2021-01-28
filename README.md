@@ -8,7 +8,7 @@ We propose meta adversarial training (MAT), a novel combination of adversarial t
 overcomes this challenge by meta-learning universal perturbations along with model training. MAT requires little
 extra computation while continuously adapting a large set of perturbations to the current model.
 
-For more details please see our [paper | link to be added shortly].
+For more details please see our [paper](https://arxiv.org/abs/2101.11453).
 
 ## Purpose of the project
 This software is a research prototype, solely developed for and published as part of the publication cited above. 
